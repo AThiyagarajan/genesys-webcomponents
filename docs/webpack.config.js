@@ -46,7 +46,7 @@ module.exports = {
     alias: {
       'genesys-webcomponents': path.resolve(
         __dirname,
-        '../dist/genesys-webcomponents'
+        '../dist/genesys-webcomponents/genesys-webcomponents.esm.js'
       )
     }
   },
